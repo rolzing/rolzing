@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 ## 💬 Contact
 
 [<img alt="LinkedIn" width="40" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
-[<img alt="CodePen" width="40" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][CodePen]
-[<img alt="StackOverflow" width="40" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][StackOverflow]
 
 ## 🛠 Languages and Tools
 
