@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 [<img alt="ESLint" width="58" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" />][ESLint]
 [<img alt="Git" width="58" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][Git]
 [<img alt="GitHub" width="58" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
-[<img alt="AWS" width="58" src="https://es.wikipedia.org/wiki/Amazon_Web_Services#/media/Archivo:Amazon_Web_Services_Logo.svg" />][AWS]
+[<img alt="AWS" width="58" src="https://i2.wp.com/unaaldia.hispasec.com/wp-content/uploads/2020/08/5-1.png?w=1654&ssl=1" />][AWS]
 
 ## 📚 Learning Right Now
 
