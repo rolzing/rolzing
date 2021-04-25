@@ -1,7 +1,5 @@
 
-[richard-lh-banner]
-
-[<img alt="richard-lh-banner" src="https://drive.google.com/file/d/1rM5_PlwAc4EltbGGC_CQfhybP6HcXe-4/view?usp=sharing" />][LinkedIn]
+![alt text](https://drive.google.com/file/d/1rM5_PlwAc4EltbGGC_CQfhybP6HcXe-4/view?usp=sharing)
 
 ## Hi there! I'm Ricardo - aka rolzing. Nice to meet you 👋
 
