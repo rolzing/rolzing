@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 ## 💬 Contact
 
 [<img alt="LinkedIn" width="40" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img alt="Instagram" width="40" height="32" src="https://image.similarpng.com/very-thumbnail/2021/01/Instagram-icon-with-flat-design-on-transparent-background-PNG.png![Uploading image.png" />][Instagram]
+
 
 ## 🛠 Languages and Tools
 
@@ -68,7 +70,9 @@ Here are some ideas to get you started:
 [![Gustavo Muñoz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rolzing&show_icons=true&hide_border=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Reference URLs -->
-[LinkedIn]: https://www.linkedin.com/in/richardhern/?locale=en_US
+[LinkedIn]: https://www.linkedin.com/in/therichardlh/?locale=en_US
+[Instagram]: https://www.instagram.com/the_richardlh/
+[Twitter]: https://twitter.com/The_RichardLH
 [HTML]: https://github.com/search?q=html
 [CSS]: https://github.com/search?q=css
 [JavaScript]: https://github.com/search?q=javascript
