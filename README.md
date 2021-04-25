@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 [<img alt="LinkedIn" width="40" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img alt="Instagram" width="40" height="32" src="https://user-images.githubusercontent.com/12732319/115978842-febd1e00-a547-11eb-9ba0-aea601debd02.png" />][Instagram]
+[<img alt="Twitter" width="40" height="32" src="https://user-images.githubusercontent.com/12732319/115978893-2d3af900-a548-11eb-90e4-8bb2dab2a110.png" />][Twitter]
+
 
 
 
