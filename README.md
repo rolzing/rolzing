@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## 💬 Contact
 
 [<img alt="LinkedIn" width="40" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
-[<img alt="Instagram" width="40" height="32" src="https://user-images.githubusercontent.com/12732319/115978723-23fd5c80-a547-11eb-879b-077265ef5a15.jpg" />][Instagram]
+[<img alt="Instagram" width="40" height="32" src="https://user-images.githubusercontent.com/12732319/115978790-b30a7480-a547-11eb-8a95-b088eb94d7cc.png" />][Instagram]
 
 
 ## 🛠 Languages and Tools
