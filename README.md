@@ -1,10 +1,11 @@
-![linkedin_banner_image_2](https://user-images.githubusercontent.com/12732319/115978386-915bbe00-a544-11eb-90ad-68685517321d.png)
+
 
 ## Hi there! I'm Ricardo - aka rolzing. Nice to meet you 👋
+![linkedin_banner_image_2](https://user-images.githubusercontent.com/12732319/115978386-915bbe00-a544-11eb-90ad-68685517321d.png)
 
-![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/1999316?style=for-the-badge)
 
 # I'm a enthusiast developer in love with JavaScript
+![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/1999316?style=for-the-badge)
 
 <!--
 **rolzing/rolzing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
