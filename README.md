@@ -1,5 +1,4 @@
-
-![alt text](https://drive.google.com/file/d/1rM5_PlwAc4EltbGGC_CQfhybP6HcXe-4/view?usp=sharing)
+![linkedin_banner_image_2](https://user-images.githubusercontent.com/12732319/115978386-915bbe00-a544-11eb-90ad-68685517321d.png)
 
 ## Hi there! I'm Ricardo - aka rolzing. Nice to meet you 👋
 
