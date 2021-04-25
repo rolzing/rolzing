@@ -1,3 +1,8 @@
+
+[richard-lh-banner]
+
+[<img alt="richard-lh-banner" src="https://drive.google.com/file/d/1rM5_PlwAc4EltbGGC_CQfhybP6HcXe-4/view?usp=sharing" />][LinkedIn]
+
 ## Hi there! I'm Ricardo - aka rolzing. Nice to meet you 👋
 
 ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/1999316?style=for-the-badge)
