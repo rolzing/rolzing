@@ -12,15 +12,15 @@
 
 Here are some ideas to get you started:
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 👯 I’m looking to collaborate on Angular, Reactjs and Open Source Projects
+- 🤔 I’m looking for help with Angular issues
+- 💬 Ask me about anything related with Frontends Tech
+- 📫 How to reach me: https://richardlh-dev.com/contact or Social medias https://richardlh-dev.com/about/bio
 -->
 
 - 🔭 I’m currently working at Globant.
 - 🌱 I’m currently learning as much as I can.
-- 🥅 2021 goals: work in the next Mars Rover!
+- 🥅 2021 goals: Be a Frontend Architect and learn Micro-Fronends with 🅰️ Angular and ⚛️ React
 - ⚡ Fun fact: I started coding because I wanted to be a Hacker.
 - 😄 Pronouns: He / Him
 
