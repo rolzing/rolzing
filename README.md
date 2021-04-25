@@ -1,6 +1,3 @@
-
-
-
 ## Hi there! I'm Ricardo - aka rolzing. Nice to meet you 👋
 ![linkedin_banner_image_2](https://user-images.githubusercontent.com/12732319/115978386-915bbe00-a544-11eb-90ad-68685517321d.png)
 
@@ -28,7 +25,7 @@ Here are some ideas to get you started:
 ## 💬 Contact
 
 [<img alt="LinkedIn" width="40" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
-[<img alt="Instagram" width="40" height="32" src="https://user-images.githubusercontent.com/12732319/115978687-e39dde80-a546-11eb-8830-58042d611546.jpg" />][Instagram]
+[<img alt="Instagram" width="40" height="32" src="https://user-images.githubusercontent.com/12732319/115978723-23fd5c80-a547-11eb-879b-077265ef5a15.jpg" />][Instagram]
 
 
 ## 🛠 Languages and Tools
