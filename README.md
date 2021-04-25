@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 ## 💬 Contact
 
 [<img alt="LinkedIn" width="40" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
-[<img alt="Instagram" width="40" height="32" src="https://user-images.githubusercontent.com/12732319/115978638-67a39680-a546-11eb-939a-ce09d64a8e0d.png" />][Instagram]
+[<img alt="Instagram" width="40" height="32" src="https://user-images.githubusercontent.com/12732319/115978687-e39dde80-a546-11eb-8830-58042d611546.jpg" />][Instagram]
+
 
 ## 🛠 Languages and Tools
 
