@@ -72,8 +72,8 @@ Here are some ideas to get you started:
 
 <!-- Reference URLs -->
 [LinkedIn]: https://www.linkedin.com/in/therichardlh/?locale=en_US
-[Instagram]: https://www.instagram.com/the_richardlh/
-[Twitter]: https://twitter.com/The_RichardLH
+[Instagram]: https://www.instagram.com/Richs.io/
+[Twitter]: https://twitter.com/Richs_io
 [HTML]: https://github.com/search?q=html
 [CSS]: https://github.com/search?q=css
 [JavaScript]: https://github.com/search?q=javascript
